@@ -1,4 +1,4 @@
-> .[!NOTE].
+> [!Note]
 > Trabajo Final
 ### Genera una aplicación de inteligencia artificial que use librerías de software libre a través de herramientas colaborativas
 1. Seleccionar una plataforma: Jupyter Lab / Google Colab / DeepNote
