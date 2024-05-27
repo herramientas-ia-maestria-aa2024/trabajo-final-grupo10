@@ -1,0 +1,3 @@
+Para replicar el proyecto realzado se necesita descargar la base de datos inicial .csv y la base de datos de postgresSQl que se encuentra en el siguiente compartido:
+
+https://utpl-my.sharepoint.com/:f:/g/personal/hasanchez8_utpl_edu_ec/EgAKwu1zNUlBibmddBkZYwMBJTJKusbkO_Qv31cakXHS6A?e=k8z4AA
