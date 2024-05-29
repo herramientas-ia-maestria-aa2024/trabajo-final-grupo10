@@ -1,5 +1,10 @@
 > [!Note]
 > Trabajo Final
+### Integrantes:
+- Hernan Sanchez
+- Carlos Tandazo
+- Andres Jimenez
+- Joselito Ordoñez
 ### Genera una aplicación de inteligencia artificial que use librerías de software libre a través de herramientas colaborativas
 1. Seleccionar una plataforma: Jupyter Lab / Google Colab / DeepNote
 2. Usar dos datasets, uno que tiene origen en un CSV y otro que está en una base de datos.
